@@ -1,5 +1,7 @@
 # Value Spectrum: Investment prediction 
 
+## Note: Self generated data for project
+
 ## Objective
 
 To increase the average transaction value (ATV) by leveraging user behavior insights and introducing a "Value Spectrum"—a dynamic comparison tool that highlights the impact of incremental investment adjustments on long-term returns.
